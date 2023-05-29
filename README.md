@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/singh-anant/singh-anant/output/snake.svg" alt="Snake animation" />
+
 
 ###
 

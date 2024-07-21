@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Anant Singh and I'm a Web Developer from India</h1>
+<h1 align="left">Hi 👋! My name is Anant Singh </h1>
 
 ###
 
